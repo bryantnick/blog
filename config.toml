@@ -1,12 +1,13 @@
 languageCode = "en-us"
-title = "Prologue"
-baseurl = "http://example.org/"
+title = "Nick Turman-Bryant"
+baseurl = "https://bryantnick.github.io"
 theme = "prologue"
+publishDir = "../bryantnick.github.io"
 
 [params]
-  name = "Jane Doe"
-  description = "Hyperspace Engineer"
-  copyright = "Untitled."
+  name = "Nick Turman-Bryant"
+  description = "Data Analyst and Research Engineer"
+  copyright = "2017"
 
 [[params.social]]
   medium = "twitter"
@@ -18,33 +19,33 @@ theme = "prologue"
   icon = "facebook"
   link = "#"
 
+  [[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/nickturmanbryant/"
+
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
-
-[[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
+  link = "https://github.com/ntbryant"
 
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "#"
+  link = "nicktb@pdx.edu"
 
 # Portfolio column one
 
 [[params.portfolio1]]
   title = "Ipsum Feugiat"
   alt = ""
-  source = "img/pic02.jpg"
+  source = "#"
   url = "#"
 
 [[params.portfolio1]]
   title = "Rhoncus Semper"
   alt = ""
-  source = "img/pic03.jpg"
+  source = "#"
   url = "#"
 
 # Portfolio column two
@@ -52,13 +53,13 @@ theme = "prologue"
 [[params.portfolio2]]
   title = "Magna Nullam"
   alt = ""
-  source = "img/pic04.jpg"
+  source = "#"
   url = "#"
 
 [[params.portfolio2]]
   title = "Natoque Vitae"
   alt = ""
-  source = "img/pic05.jpg"
+  source = "#"
   url = "#"
 
 # Portfolio column 3
@@ -66,11 +67,11 @@ theme = "prologue"
 [[params.portfolio3]]
   title = "Dolor Penatibus"
   alt = ""
-  source = "img/pic06.jpg"
+  source = "#"
   url = "#"
 
 [[params.portfolio3]]
   title = "Orci Convallis"
   alt = ""
-  source = "img/pic07.jpg"
+  source = "#"
   url = "#"
