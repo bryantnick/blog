@@ -1,8 +1,8 @@
 languageCode = "en-us"
 title = "Nick Turman-Bryant"
-baseurl = "https://bryantnick.github.io"
+baseurl = "https://ntbryant.github.io"
 theme = "prologue"
-publishDir = "../bryantnick.github.io"
+publishDir = "../ntbryant.github.io"
 
 [params]
   name = "Nick Turman-Bryant"
@@ -10,16 +10,6 @@ publishDir = "../bryantnick.github.io"
   copyright = "2017"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
-
-  [[params.social]]
   medium = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/nickturmanbryant/"
@@ -30,34 +20,22 @@ publishDir = "../bryantnick.github.io"
   link = "https://github.com/ntbryant"
 
 [[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "nicktb@pdx.edu"
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/nickturmanbryant/"
 
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Ipsum Feugiat"
+  title = "Ethiopia Mapping"
   alt = ""
   source = "#"
-  url = "#"
-
-[[params.portfolio1]]
-  title = "Rhoncus Semper"
-  alt = ""
-  source = "#"
-  url = "#"
+  url = "https://nicktb.shinyapps.io/AfarStudy/"
 
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Magna Nullam"
-  alt = ""
-  source = "#"
-  url = "#"
-
-[[params.portfolio2]]
-  title = "Natoque Vitae"
+  title = "Kenya Sanitation"
   alt = ""
   source = "#"
   url = "#"
@@ -65,13 +43,7 @@ publishDir = "../bryantnick.github.io"
 # Portfolio column 3
 
 [[params.portfolio3]]
-  title = "Dolor Penatibus"
-  alt = ""
-  source = "#"
-  url = "#"
-
-[[params.portfolio3]]
-  title = "Orci Convallis"
+  title = "Kenya Solar"
   alt = ""
   source = "#"
   url = "#"
