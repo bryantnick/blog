@@ -6,7 +6,7 @@ publishDir = "../ntbryant.github.io"
 
 [params]
   name = "Nick Turman-Bryant"
-  description = "Data Analyst and Research Engineer"
+  description = "Data Scientist"
   copyright = "2017"
 
 [[params.social]]
@@ -24,26 +24,54 @@ publishDir = "../ntbryant.github.io"
   icon = "facebook"
   link = "https://www.facebook.com/nickturmanbryant/"
 
+[[params.social]]
+  medium = "sweetsense"
+  icon = "scribd"
+  link = "http://www.sweetsensors.com/"
+
+[[params.social]]
+  medium = "sweetsense"
+  icon = "university"
+  link = "https://www.pdx.edu/sweetlab/"
+
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Ethiopia Mapping"
-  alt = ""
-  source = "#"
+  title = "Shiny App for Mapping Borehole Sites in Ethiopia"
+  alt = "Ethiopia Mapping Shiny App"
+  source = "img/afar.jpg"
   url = "https://nicktb.shinyapps.io/AfarStudy/"
+
+[[params.portfolio1]]
+  title = "Market Evolution Report for Off-Grid Lighting in Kenya"
+  alt = "Market Evolution Report"
+  source = "img/marketEvolution.png"
+  url = "https://www.lightingglobal.org/wp-content/uploads/2015/10/2015-RiseOfSolar-10182015-withSurvey.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIWLAyN9DTJaOumOQMZSvxg%3D%3D"
 
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Kenya Sanitation"
-  alt = ""
-  source = "#"
-  url = "#"
+  title = "Dashboard for Ethiopia Water Study"
+  alt = "Ethiopia Dashboard"
+  source = "img/ethiopia.jpg"
+  url = "http://www.sweetsensors.com/sweetdata/ethiopia-lowland-wash-dashboard/"
+
+[[params.portfolio2]]
+  title = "Pay-As-You-Go Financing Report for Solar Lighting in Kenya"
+  alt = "Pay-as-you-go Financing Report"
+  source = "img/payg.png"
+  url = "https://www.lightingglobal.org/wp-content/uploads/2015/05/Off_Grid_Power_and_Connectivity_PAYG_May_2015.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIWLAyN9DTJaOumOQMZSvxg%3D%3D"
 
 # Portfolio column 3
 
 [[params.portfolio3]]
-  title = "Kenya Solar"
-  alt = ""
-  source = "#"
-  url = "#"
+  title = "Dashboard for Sanergy Sanitation Study in Kenya"
+  alt = "Sanergy Dashboard"
+  source = "img/sanergy.jpg"
+  url = "http://www.sweetsensors.com/sweetdata/sanergy-dashboard/"
+
+[[params.portfolio3]]
+  title = "Quality Assurance Report for Solar Lighting in Kenya"
+  alt = "Quality Assurance Report"
+  source = "img/qualityAssurance.png"
+  url = "https://www.lightingglobal.org/wp-content/uploads/2015/10/Quality_Communication_09282015.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIWLAyN9DTJaOumOQMZSvxg%3D%3D"
